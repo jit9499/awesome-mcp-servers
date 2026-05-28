@@ -11,6 +11,11 @@
 > [!IMPORTANT]
 > [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
 
+
+> Verified Top MCP Servers and Skills
+> https://www.mcpappdirectory.com
+> 
+
 A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
@@ -29,6 +34,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ## Clients
 
 Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
+
+Verified Top MCP Servers www.mcpappdirectory.com
+
 
 ## Tutorials
 
